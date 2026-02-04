@@ -1,1 +1,7 @@
 Sales,Date,Region
+Sales,Date,Region
+100,2021-01-01,North
+200,2021-01-02,East
+150,2021-01-03,South
+120,2021-01-04,West
+180,2021-01-05,North
